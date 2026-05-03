@@ -6,8 +6,6 @@ Analyzed global CO2 emissions data using Databricks SQL to identify trends, patt
 ## 🛠️ Tools & Technologies
 - Databricks
 - SQL
-- Power BI / Dashboard
-- Excel (if used)
 
 ## 📊 Key Analysis
 - Emission per person
